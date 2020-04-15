@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+Ron here.
+I've had a beef bowl.
